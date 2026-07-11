@@ -1,0 +1,8 @@
+{
+  "services": {
+    "web": {
+      "command": "node src/server.js",
+      "port": 3001
+    }
+  }
+}
